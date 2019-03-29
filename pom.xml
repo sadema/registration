@@ -5,6 +5,9 @@
     <groupId>nl.kristalsoftware</groupId>
     <artifactId>registration-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>catalog</module>
+    </modules>
     <packaging>pom</packaging>
 
     <parent>
