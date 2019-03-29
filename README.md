@@ -1,2 +1,2 @@
 # registration
-Registration microservices in SpringBoot deployed as Lambdas on AWS
+Registration microservices developed in SpringBoot following DDD paterns and deployed as Lambdas on AWS
